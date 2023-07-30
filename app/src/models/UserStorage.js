@@ -2,7 +2,7 @@
 
 class UserStorage {
   static #users = {
-    id: ["wjddn", "나개발", "김팀장"],
+    id: ["wjddnalt24", "나개발", "김팀장"],
     psword: ["1234", "1234", "123456"],
     name: ["우킴", "나개발", "김팀장"],
   };
